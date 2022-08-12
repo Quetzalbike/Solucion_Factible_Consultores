@@ -23,8 +23,8 @@ public class Home {
            
             //System.out.print(isValid("090900tt9"));
             
-            int[] a = new int[]{21, 144, 19, 161, 19, 144, 19, 11};
-		int[] b = new int[]{132, 14641, 20736, 361, 25921, 361, 20736, 361};
+            //int[] a = new int[]{21, 144, 19, 161, 19, 144, 19, 11};
+		//int[] b = new int[]{132, 14641, 20736, 361, 25921, 361, 20736, 361};
             System.out.println(diff(new int [] {9,4,2,23,5,52,83,22}, new int[] {83,24,23,5}));
         }
 }
